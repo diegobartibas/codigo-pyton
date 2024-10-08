@@ -1,2 +1,13 @@
 # codigo-pyton
-![image](https://github.com/user-attachments/assets/781ccbf7-170d-4dff-83a4-c8f3940080b3)
+class gato:
+    def __init__(self):
+        print("hola mundo, meaow")
+        
+        
+class perro:
+    def __init__(self):
+        print("hola mundo, woff")   
+        
+        
+gato0 = gato()
+pero0 = perro()
